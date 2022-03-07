@@ -1,3 +1,8 @@
+/* Commentaire de JP Chavey
+
+- il manque une entête
+
+
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
