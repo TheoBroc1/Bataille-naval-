@@ -1,0 +1,3 @@
+"C:\Clion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BatailleNavalv_1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\BatailleNavalv_1.dir/objects.a @CMakeFiles\BatailleNavalv_1.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\BatailleNavalv_1.dir/objects.a -Wl,--no-whole-archive -o BatailleNavalv_1.exe -Wl,--out-implib,libBatailleNavalv_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BatailleNavalv_1.dir\linklibs.rsp
