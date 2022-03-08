@@ -1,3 +1,8 @@
+//Théo Brocard
+//bataille navale v1
+//07.03.2022
+
+//TO DO; faire que les bateaux soient "coulés"
 #include <stdio.h>
 #include <time.h>
 #include <windows.h>
